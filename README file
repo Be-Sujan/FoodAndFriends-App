@@ -1,0 +1,3 @@
+// install all dependencies
+// to initialze the App
+npx expo Start
